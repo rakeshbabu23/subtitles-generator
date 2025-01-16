@@ -252,7 +252,7 @@ const VideoProcessor = ({
           ) : (
             <>
               <Upload className="w-4 h-4" />
-              Burn Subtitles into Video
+              Add Subtitles into Video
             </>
           )}
         </button>
